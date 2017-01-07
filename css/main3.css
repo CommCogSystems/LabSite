@@ -11,12 +11,6 @@ body {
   position:fixed;
   z-index:1; 
   height:70px;
-  border-bottom:1px solid gray;
-  opacity:0.6;
-}
-
-#top:hover {
-  opacity:1;
 }
 
 #logo {
@@ -75,15 +69,18 @@ ul li a:hover {
 }
 
 #info1 {
+  background-color:whitesmoke;
+  border:1px solid whitesmoke;
 }
 
 #info2 {
-  height:400px;
   background-color:white;
-  border-top:1px solid white;
+  border:1px solid white;
 }
 
 #info3 {
+  background-color:white;
+  border:1px solid white;
 }
 
 #closer {
