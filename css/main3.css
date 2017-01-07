@@ -76,11 +76,12 @@ ul li a:hover {
 #info2 {
   background-color:white;
   border:1px solid white;
+  
 }
 
 #info3 {
-  background-color:white;
-  border:1px solid white;
+  background-color:whitesmoke;
+  border:1px solid whitesmoke;
 }
 
 #closer {
