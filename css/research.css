@@ -127,6 +127,8 @@ ul li a:hover {
 #info1 {
   height:400px;
   margin-top:90px;
+  background-color:white;
+  border:1px solid white;
 }
 
 #info2 {
