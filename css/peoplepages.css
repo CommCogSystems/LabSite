@@ -207,6 +207,19 @@ ul li a:hover {
   margin-bottom:40px;
 }
 
+#bioCont {
+  width:50%;
+  margin:auto;
+}
+
+#bio {
+  text-align:left;
+  padding-left:20px;
+  padding-right:20px;
+  border-left: 1px dashed lightgray;
+  border-right: 1px dashed lightgray;
+}
+
 .titlename {
   margin-bottom:0;
   margin-left:20px;
@@ -226,10 +239,6 @@ ul li a:hover {
   margin-bottom:40px;
 }
 
-#bio {
-  width:70%;
-  margin:auto;
-}
 
 #back a:link, a:visited {
   color:black;
@@ -239,3 +248,4 @@ ul li a:hover {
 #back a:hover {
   text-decoration:underline;
 }
+
