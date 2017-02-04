@@ -86,9 +86,8 @@ ul li a:hover {
 }
 
 #info3 {
-  background-color:whitesmoke;
+  background-color: rgba(38,77,115,.8);
   border:1px solid whitesmoke;
-  opacity:0.9;
   height:400px;
   padding-top:200px;
 }
@@ -308,7 +307,7 @@ td {
 }
 
 #learn:hover {
-  background-color:#B20000;
+  background-color:rgba(178,0,0,1);
   -webkit-box-shadow: 0px 0px 5px 0px rgba(15,15,15,1);
   -moz-box-shadow: 0px 0px 5px 0px rgba(15,15,15,1);
   box-shadow: 0px 0px 5px 0px rgba(15,15,15,1);
