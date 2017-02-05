@@ -212,8 +212,6 @@ td, th {
 }
 
 #hey:hover {
-  -webkit-filter: grayscale(0);
-  filter: grayscale(0);
   opacity:1;
 }
 
