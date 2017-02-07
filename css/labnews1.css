@@ -133,8 +133,7 @@ ul li a:hover {
 }
 
 #info1 {
-  height:400px;
-  padding:100px;
+  padding:150px;
   background-color:white;
   border:1px solid white;
 }
@@ -142,7 +141,7 @@ ul li a:hover {
 #info2 {
   border-top:1px solid white;
   background:white;
-  height:400px;
+  padding:150px;
 }
 
 .title {
@@ -185,8 +184,7 @@ ul li a:hover {
 #info3 {
   background-color: rgba(245,245,245,.8);
   border:1px solid whitesmoke;
-  height:400px;
-  padding-top:150px;
+  padding:150px;
 }
 
 #learn {
