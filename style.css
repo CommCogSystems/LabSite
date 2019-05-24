@@ -1,0 +1,51 @@
+
+
+
+.container {
+
+
+  position: relative;
+
+  text-align: center;
+
+  color: white;
+
+}
+
+
+
+.centered {
+
+  position: absolute;
+
+  top: 60%;
+
+  left: 50%;
+
+  transform: translate(-50%, -80%);
+
+}
+
+
+
+.gif {
+
+  position: absolute;
+
+  transform: translate(0, -100%);
+
+  opacity: 0.10;
+
+}
+
+
+
+ 
+
+h1 {
+
+  font-family: verdana;
+
+  font-size: 3vw;
+
+}
