@@ -1053,7 +1053,8 @@ z-index:1;
 
 #boxes .box img {width:170px; min-height: 154px;}
 	
-.welcome {font-size: 15px;}
+.welcome {font-size: 20px;
+	line-height: 15px;}
   
 }
 /* CSS Document */
