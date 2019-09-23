@@ -331,6 +331,7 @@ top:scroll {
 
 #logo {
   margin-top:0;
+	height:55px;
 }
 
 
@@ -380,11 +381,6 @@ li a {
     color:white;
 }
 
-
-ul li a:hover {
-    color:gray;
-}
-
 @media (min-width: 320px) and (max-width: 480px) {
 #top {
   width:100%;
@@ -396,10 +392,11 @@ ul li a:hover {
   opacity:.9;
 }
 	
-#logo { height: 20px;}	
+#logo {height: 20px;}	
+	
 }
 	
-	
+@media (min-width: 320px) and (max-width: 480px) {	
 .write{
   margin:0 auto;
   line-height:70px;
@@ -437,6 +434,13 @@ li a {
     height:50px;
     text-decoration:none;
     color:white;
+}
+
+
+
+
+ul li a:hover {
+    color:gray;
 }
 }
 
@@ -1106,9 +1110,6 @@ z-index:1;
 }
 
 #boxes .box img {width:170px; min-height: 154px;}
-	
-.welcome {font-size: 20px;
-	line-height: 15px;}
   
 }
 /* CSS Document */
